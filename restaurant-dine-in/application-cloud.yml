@@ -1,2 +1,6 @@
 chef:
   special: '{cipher}122bc06ae2298045c029d679031f629d674b53e4dd43f15fb1c10e71214b82f3'
+management:
+  info:
+    git:
+     mode: full
